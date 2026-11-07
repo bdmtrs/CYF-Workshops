@@ -10,3 +10,10 @@ console.log(Math.abs());
 console.log(Math.abs(-100));
 
 // Run the file with Node to check your answer
+
+/*
+  Result:
+  ƒ abs()
+  NaN
+  100
+*/
