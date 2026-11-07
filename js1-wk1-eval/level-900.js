@@ -7,3 +7,8 @@ const grandFatherAge = 83;
 const ageGap = grandFatherAge - mitchAge;
 // const ageGap = Math.abs(mitchAge - grandFatherAge); // regardless of the order
 console.log(ageGap);
+
+/*
+  Result:
+  50
+*/
